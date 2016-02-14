@@ -106,7 +106,7 @@ Spirit Link. In the evening, we'd make music until we could no longer keep our e
 drums. I played guitar and sang. He mixed all our creativity together producing amazing songs. [Indigo Blues].
 
 It's been more than ten years since I was in Erlangen. I moved away as Ingo fell in love with Fiddi, and I managed to
-find a job that required a lot less travel. I could finalyy work on rebuild my relationships at home. Music was set
+find a job that required a lot less travel. I could finally work on rebuilding my relationships at home. Music was set
 aside again. I did play the guitar occasionally and sing, but I had stopped making music.
 
 ---
