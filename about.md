@@ -76,10 +76,11 @@ For the next five years, as I drifted through many unplanned adventures and stra
 companion. I didn't learn to play it well. But it did support me as I sang my way soulfully through those turbulent
 times. I didn't learn to sing, either. But, I did find a way through my voice to let go and heal.
 
-As I turned thirty, I remarried. I put away my guitar and focused on learning to live in another country, speak another
-language and raise another three kids. I lost touch with my first two kids by not being responsible enough. I wasn't
-going to lose these three kids through the same self-absorbed complacency. No matter how much effort it took. No matter
-how much traveling it took. No matter how much time it took. I was going to see it through.
+As I turned thirty, I remarried and moved to Germany. I put away my guitar and focused on learning to live in another
+country, speak another language and raise another three kids. I lost touch with my first two kids by not being
+responsible enough. I wasn't going to lose these three kids through the same self-absorbed complacency. No matter how
+much effort it took. No matter how much traveling it took. No matter how much time it took. I was going to see it
+through.
 
 After about a dozen years or so of traveling during the week for work - being only home on the weekend - traveling
 started getting old and instead of enjoying the scenic European countryside, I spent most of my time feeling
