@@ -81,22 +81,24 @@ language and raise another three kids. I lost touch with my first two kids by no
 going to lose these three kids through the same self-absorbed complacency. No matter how much effort it took. No matter
 how much traveling it took. No matter how much time it took. I was going to see it through.
 
-After a dozen years or so, traveling during the week for work - being only home on the weekend - started get old and I
-spent most of my time feeling lonely. Bills got paid. Food filled the fridge most of the time. For my three German kids
-there was always food on the table and a comfortable place to live. But I was very lonely.
+After about a dozen years or so of traveling during the week for work - being only home on the weekend - traveling
+started getting old and instead of enjoying the scenic European countryside, I spent most of my time feeling
+lonely. But, bills got paid. Food filled the fridge (most of the time). For my three German kids there was always food
+on the table and a comfortable place to live. But, by traveling all the time I ended up very lonely.
 
-Traveling for work paid the bills but it was not good for relationships of any kind. My marriage suffered. As was not
-the father I could have been. Still, I traveled for work. With all that travel, I had become complacent once, again.
+Traveling for work paid the bills but it was not good for relationships of any kind. My marriage suffered. I was not
+the father I could have been. Still, I needed to travel to find work. And, with all that travel, I had become
+complacent once, again. Fulfilling my responsibilities as provider somehow justified my self-absorbed loneliness.
 
-My complacent resignation to travel for work, created the opportunity for me to travel to [Erlangen, Germany] and to
-work for [Spirit Link, GmbH]. Through that job, I did manage to find a spirit link to my best friend, Ingo.
+My resignation to travel for work, created the opportunity for me to travel to [Erlangen, Germany] and to work for
+[Spirit Link, GmbH]. Through that job, I did manage to find a spirit link to a new best friend, Ingo.
 
 Ingo lost his wife to cancer just before I arrived in Erlangen. He also lost his two step-daughters. They moved in
 with their natural father after their mom died. Ingo was all alone. In a very big house.
 
 In the basement of his house, Ingo had a guest bedroom - that he had converted into a music studio. He and his wife had
-enjoyed creating music together. But, he had stopped making music when she died. So, he had an extra bedroom and I was
-welcome to stay there whenever I worked in Erlangen.
+[enjoyed creating music together]. But, he had stopped making music when she died. So, he had an extra bedroom and I
+was welcome to stay there whenever I worked in Erlangen.
 
 I lived in that music studio five days a week for a very long, peaceful time. I had finally managed to shake the
 loneliness I had felt since first moving to Germany. During the day, Ingo and I worked together. We were teammates at
@@ -130,12 +132,14 @@ The site was built using [Jekyll] and is hosted on [GitHub Pages] at
 [CMS]:                            https://en.wikipedia.org/wiki/Content_management_system
 [COBOL]:                          https://en.wikipedia.org/wiki/COBOL
 [C]:                              https://en.wikipedia.org/wiki/C_(programming_language)
+[enjoyed creating music together]:https://soundcloud.com/search?q=inidgo%20blues%20featuring%20connie%20wolff
 [ESBs]:                           https://en.wikipedia.org/wiki/Enterprise_service_bus
 [FORTH]:                          https://en.wikipedia.org/wiki/Forth_(programming_language)
 [FORTRAN]:                        https://en.wikipedia.org/wiki/Fortran
 [GitHub Pages]:                   https://pages.github.com/
 [Groovy]:                         https://en.wikipedia.org/wiki/Groovy_(programming_language)
-[Indigo Blues]:                   https://soundcloud.com/indigo-blues
+[Ingo]:                           https://soundcloud.com/indigo-blues
+[Indigo Blues]:                   https://soundcloud.com/search?q=inidgo%20blues%20featuring%20richard%20golden
 [James Grieshhaber]:              https://plus.google.com/104610899646415406748/about
 [Java]:                           https://en.wikipedia.org/wiki/Java
 [Javascript]:                     https://en.wikipedia.org/wiki/JavaScript
