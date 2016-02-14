@@ -106,8 +106,8 @@ Spirit Link. In the evening, we'd make music until we could no longer keep our e
 drums. I played guitar and sang. He mixed all our creativity together producing amazing songs. [Indigo Blues].
 
 It's been more than ten years since I was in Erlangen. I moved away as Ingo fell in love with Fiddi, and I managed to
-find a job that required a lot less travel. I could rebuild my relationships at home. Music was set aside again. I did
-play the guitar occasionally and sing, but I had stopped making music.
+find a job that required a lot less travel. I could finalyy work on rebuild my relationships at home. Music was set
+aside again. I did play the guitar occasionally and sing, but I had stopped making music.
 
 ---
 
@@ -133,6 +133,7 @@ The site was built using [Jekyll] and is hosted on [GitHub Pages] at
 [COBOL]:                          https://en.wikipedia.org/wiki/COBOL
 [C]:                              https://en.wikipedia.org/wiki/C_(programming_language)
 [enjoyed creating music together]:https://soundcloud.com/search?q=inidgo%20blues%20featuring%20connie%20wolff
+[Erlangen, Germany]:              https://en.wikipedia.org/wiki/Erlangen
 [ESBs]:                           https://en.wikipedia.org/wiki/Enterprise_service_bus
 [FORTH]:                          https://en.wikipedia.org/wiki/Forth_(programming_language)
 [FORTRAN]:                        https://en.wikipedia.org/wiki/Fortran
