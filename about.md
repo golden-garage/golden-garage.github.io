@@ -91,7 +91,7 @@ the father I could have been. Still, I needed to travel to find work. And, with 
 complacent once, again. Fulfilling my responsibilities as provider somehow justified my self-absorbed loneliness.
 
 My resignation to travel for work, created the opportunity for me to travel to [Erlangen, Germany] and to work for
-[Spirit Link, GmbH]. Through that job, I did manage to find a spirit link to a new best friend, Ingo.
+[Spirit Link, GmbH]. Through that job, I did manage to find a spirit link to a new best friend, [Ingo].
 
 Ingo lost his wife to cancer just before I arrived in Erlangen. He also lost his two step-daughters. They moved in
 with their natural father after their mom died. Ingo was all alone. In a very big house.
