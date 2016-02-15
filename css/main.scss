@@ -51,7 +51,56 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+// ====================================================================================================================
+
+html {
+  overflow-y: scroll;
+}
 
 article {
   margin-top: 25px;
+}
+
+.tabbed-content {
+  margin:   0px;
+  padding:  0px;
+
+  .tabbar {
+    border:  1px solid $grey-color-dark;
+    padding: 0px;
+
+    width: 100%;
+
+    background-color: $grey-color-light;
+
+    .tab {
+      margin:   0px;
+      padding: 13px;
+
+      background-color: $grey-color-light;
+
+      white-space: nowrap;
+    }
+
+    .tab:hover {
+      cursor: pointer;
+      color: $background-color;
+      background-color: $grey-color-dark;
+    }
+
+    .tab:focus {
+      color: $background-color;
+      background-color: $grey-color-dark;
+    }
+
+    .fill {
+      width: 100%;
+    }
+  }
+
+  .tab-content {
+       margin-top: 25px;
+
+       display: none;
+  }
 }

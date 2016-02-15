@@ -37,3 +37,17 @@ layout: default
   </script>
 
 </div>
+<script>
+
+ function showTab( tab ) {
+
+   $( '.tab-content'      ).hide();
+   $( '.tab-content'+ tab ).show();
+
+   $( '.tab.selected' ).removeClass( 'selected' );
+   $( '.tab'+ tab     ).addClass(    'selected' );
+ }
+
+$( document ).ready( function () { $( '.tab.lesson' ).focus(); $( '.tab.lesson' ).click(); });
+
+</script>
