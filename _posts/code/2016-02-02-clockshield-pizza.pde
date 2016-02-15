@@ -1,3 +1,4 @@
+size( 400, 400 );
 
 background  (212, 166,   0);       // wooden table
 
