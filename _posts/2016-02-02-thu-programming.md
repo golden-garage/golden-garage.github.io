@@ -21,13 +21,15 @@ We also started working on our [SpaceHockey] game.
 - push initial commit
 - add some documention
 
+---
+
 **[ClockShield]** created [a Pizza using Processing](/assets/2016-02-02-clockshield-pizza.pde).
 
 <table>
 <tr>
-<td markdown="1">
+<td markdown="1" style="vertical-align: top;">
 ~~~ processing
-{% include_relative code/2016-02-02-clockshield-pizza.pde %}
+{% include 2016-02-02-clockshield-pizza.pde %}
 ~~~
 </td>
 <td style="vertical-align: top;">
@@ -36,20 +38,7 @@ We also started working on our [SpaceHockey] game.
 </tr>
 </table>
 
-**[ClockShield]** also created [a Shooting Star using Processing](/assets/2016-02-02-clockshield-shooting-star.pde).
-
-<table>
-<tr>
-<td markdown="1">
-~~~ processing
-{% include_relative code/2016-02-02-clockshield-shooting-star.pde %}
-~~~
-</td>
-<td style="vertical-align: top;">
-<canvas data-processing-sources="/assets/2016-02-02-clockshield-shooting-star.pde"></canvas>
-</td>
-</tr>
-</table>
+---
 
 [Intro to JS: Drawing & Animation]: https://www.khanacademy.org/computing/computer-programming/programming
 [SpaceHockey]:                      https://github.com/golden-garage/SpaceHockey
