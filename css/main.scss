@@ -57,8 +57,96 @@ html {
   overflow-y: scroll;
 }
 
-article {
-  margin-top: 25px;
+body {
+  background-image: radial-gradient( circle, rgba(255,255,255,0.31), rgba(0,0,0,0.67) ), url('/assets/GoldenSoftwareLogoBigAlpha.png');
+  background-blend-mode: multiply;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: contain;
+}
+
+.site-header {
+  border-top: 0px;
+  min-height: 30px;
+  background-color: rgba( 255, 255, 255, 0.76 );
+
+  .site-nav, .site-title {
+    line-height: 49px;
+  }
+}
+
+.page-content {
+  padding-top:    13px;
+  padding-bottom: 13px;
+}
+
+.home {
+  background-color: rgba( 255, 255, 255, 0.67 );
+
+  .post-list li
+  {
+    padding-top:   13px;
+    margin-bottom: 13px;
+
+    span:first-child {
+      padding-left:  13px;
+    }
+    
+  
+    h2 {
+      margin-bottom:  0px;
+      padding-left:  13px;
+      padding-right: 13px;
+    }
+
+    p {
+      padding:  13px;
+    }
+
+    background-color: rgba( 255, 255, 255, 0.67 );
+  }
+
+  p {
+    padding-left:  13px;
+    padding-right: 13px;
+
+    background-color: rgba( 255, 255, 255, 0.67 );
+  }
+}
+
+.post {
+  background-color: rgba( 255, 255, 255, 0.67 );
+
+  .post-header {
+    margin-bottom: 13px;
+
+    .post-title {
+      padding-top:  13px;
+      padding-left: 13px;
+    }
+
+    .post-meta {
+      padding-left: 13px;
+    }
+      
+    background-color: rgba( 255, 255, 255, 0.76 );
+  }
+
+  article {
+    margin-top:    13px;
+    padding-top:   13px;
+    padding-left:  13px;
+    padding-right: 13px;
+
+    background-color: rgba( 255, 255, 255, 0.76 );
+  }
+}
+
+
+footer {
+  background-color: rgba( 255, 255, 255, 0.76 );
 }
 
 .tabbed-content {
@@ -99,8 +187,13 @@ article {
   }
 
   .tab-content {
-       margin-top: 25px;
+    margin-top: 25px;
 
-       display: none;
+    table {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    display: none;
   }
 }

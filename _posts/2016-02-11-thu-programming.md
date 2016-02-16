@@ -38,17 +38,19 @@ tutorials.
 
 **[ClockShield]** created some [circle mania using Processing](/assets/2016-02-11-clockshield-circle-mania.pde).
 
-**Hint:** move your mouse over the canvas on the right.
+**Hint:** move your mouse over the canvas below.
 
 <table>
 <tr>
-<td markdown="1" style="vertical-align: top; width: 50%;">
+<td>
+<canvas data-processing-sources="/assets/2016-02-11-clockshield-circle-mania.pde"></canvas>
+</td>
+</tr>
+<tr>
+<td markdown="1">
 ~~~ processing
 {% include 2016-02-11-clockshield-circle-mania.pde %}
 ~~~
-</td>
-<td style="vertical-align: top; width: 50%;">
-<canvas data-processing-sources="/assets/2016-02-11-clockshield-circle-mania.pde"></canvas>
 </td>
 </tr>
 </table>
@@ -61,13 +63,15 @@ tutorials.
 
 <table>
 <tr>
-<td markdown="1" style="vertical-align: top; width: 50%;">
+<td>
+<canvas data-processing-sources="/assets/2016-02-11-clockshield-shooting-star.pde"></canvas>
+</td>
+</tr>
+<tr>
+<td markdown="1">
 ~~~ processing
 {% include 2016-02-11-clockshield-shooting-star.pde %}
 ~~~
-</td>
-<td style="vertical-align: top; width: 50%;">
-<canvas data-processing-sources="/assets/2016-02-11-clockshield-shooting-star.pde"></canvas>
 </td>
 </tr>
 </table>

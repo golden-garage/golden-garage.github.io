@@ -8,6 +8,19 @@ categories: update thu programming processingjs
 
 Today, we started the [Intro to JS: Drawing & Animation] on-line tutorial from [Kahn Academy].
 
+<div class="tabbed-content">
+
+<table class="tabbar"><tr>
+
+  <td class="tab lesson"      tabindex="1" onClick="showTab( '.lesson'      )"> lesson    </td>
+  <td class="tab example one" tabindex="2" onClick="showTab( '.example.one' )"> example 1 </td>
+
+  <td class="fill">&nbsp;</td>
+
+</tr></table>
+
+<div class="tab-content lesson" markdown="1">
+
 We completed four lessons:
 
 - [Intro to Programming](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)
@@ -21,24 +34,30 @@ We also started working on our [SpaceHockey] game.
 - push initial commit
 - add some documention
 
----
+</div>
+
+<div class="tab-content example one" markdown="1">
 
 **[ClockShield]** created [a Pizza using Processing](/assets/2016-02-02-clockshield-pizza.pde).
 
-<table>
+<table class="example">
 <tr>
-<td markdown="1" style="vertical-align: top;">
+<td>
+<canvas data-processing-sources="/assets/2016-02-02-clockshield-pizza.pde"></canvas>
+</td>
+</tr>
+<tr>
+<td markdown="1">
 ~~~ processing
 {% include 2016-02-02-clockshield-pizza.pde %}
 ~~~
 </td>
-<td style="vertical-align: top;">
-<canvas data-processing-sources="/assets/2016-02-02-clockshield-pizza.pde"></canvas>
-</td>
 </tr>
 </table>
 
----
+</div>
+
+</div>
 
 [Intro to JS: Drawing & Animation]: https://www.khanacademy.org/computing/computer-programming/programming
 [SpaceHockey]:                      https://github.com/golden-garage/SpaceHockey

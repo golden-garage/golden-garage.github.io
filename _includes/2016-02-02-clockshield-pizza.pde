@@ -1,9 +1,9 @@
 size( 400, 400 );
 
-background  (212, 166,   0);       // wooden table
+background  (212, 166,   0);
 
 fill        (180, 150,   0);
-ellipse     (200, 200, 350, 350);  // plate
+ellipse     (200, 200, 350, 350);
 
 fill        (255, 251,   0);
 ellipse     (200, 200, 300, 300);
