@@ -85,7 +85,9 @@ body {
 .home {
   background-color: rgba( 255, 255, 255, 0.67 );
 
-  .post-list li
+  min-height: 600px;
+
+.post-list li
   {
     padding-top:   13px;
     margin-bottom: 13px;
