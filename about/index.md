@@ -4,41 +4,29 @@ title: about
 permalink: /about/
 ---
 
+# about
+
 Here is more information about Rick, his music, the garage and this website.
 
 <small> ( Click on a section header to expand the section. ) </small>
 
 <!-- ============================================================================================================== -->
 
-<div class="section" markdown="1" onClick="showSection(this);">
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% if post.categories contains "about" %}
+      <div class="section" onClick="showSection(this);">
 
-{% include about/site.md %}
+        <h1>{{ post.title }}</h1>
 
-</div>
+        <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></p>
 
-<!-- ============================================================================================================== -->
+        {{ post.content }}
 
-<div class="section" markdown="1" onClick="showSection(this);">
-
-{% include about/garage.md %}
-
-</div>
-
-<!-- ============================================================================================================== -->
-
-<div class="section" markdown="1" onClick="showSection(this);">
-
-{% include about/programmer.md %}
-
-</div>
-
-<!-- ============================================================================================================== -->
-
-<div class="section" markdown="1" onClick="showSection(this);">
-
-{% include about/musician.md %}
-
-</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <!-- ============================================================================================================== -->
 

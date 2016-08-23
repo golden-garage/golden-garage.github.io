@@ -1,4 +1,10 @@
-# about the programmer
+---
+layout: post
+topic:  "about"
+title:  "about the programmer"
+date:   2016-08-23 15:46:21
+categories: about
+---
 
 In the summer of 1972, I sat in the computer lab at [SUNY Fredonia] and completed my first [CAI tutorial] for
 programming in the computer programming language [APL]. I was nine years old.
@@ -27,3 +33,7 @@ forward.
 Now that I am past my fortieth year as a programmer - a career that has spanned more than eighty percent of my life, I
 really enjoy most guiding and coaching the next generation of programmers and software architects - awakening others to
 the same joy and passion for computing that I have had for more than forty years.
+
+<!-- ============================================================================================================== -->
+
+{% include about/_refs.md %}

@@ -1,4 +1,10 @@
-# about this garage
+---
+layout: post
+topic:  "about"
+title:  "about the garage"
+date:   2016-08-23 15:46:40
+categories: about
+---
 
 I'm consolidating the various projects that I have been working on into one place: this garage.
 
@@ -23,3 +29,7 @@ turned up to *e l e v e n !* The guitars need to be tuned. My fingers are soft -
 to be plugged in. My voice is older - but, still wants to sing. I wonder what else is under that tarp?
 
 It's time to clean-up, reorganize and play.
+
+<!-- ============================================================================================================== -->
+
+{% include about/_refs.md %}

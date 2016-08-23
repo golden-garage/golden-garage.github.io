@@ -6,7 +6,7 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.topic contains "News" %}
+      {% if post.categories contains "news" %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;-&nbsp;<span>{{ post.topic }}</span>
 

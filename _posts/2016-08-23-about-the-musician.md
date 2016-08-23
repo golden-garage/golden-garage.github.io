@@ -1,4 +1,10 @@
-# about the musician
+---
+layout: post
+topic:  "about"
+title:  "about the musician"
+date:   2016-08-23 15:46:30
+categories: about
+---
 
 ## lost in the valley
 
@@ -52,3 +58,7 @@ It's been more than 7 years since I've lived in Germany - since I've returned to
 My kids are now either married and focused on their families, or off to college focused on gaining their independence.
 
 Now, once again, I have time for music.
+
+<!-- ============================================================================================================== -->
+
+{% include about/_refs.md %}
