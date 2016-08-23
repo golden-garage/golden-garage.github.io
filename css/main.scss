@@ -150,7 +150,7 @@ body {
 
 
 footer {
-  background-color: rgba( 255, 255, 255, 0.76 );
+  background-color: rgba( 255, 255, 255, 0.3 );
 }
 
 .tabbed-content {
@@ -201,3 +201,52 @@ footer {
     display: none;
   }
 }
+
+.section {
+  h1:hover  { background-color: rgba( 255, 255, 127, 0.3 ); cursor: pointer; }
+  h1:active { background-color: rgba( 255, 255, 127, 0.7 ); }
+  h1:focus  { background-color: rgba( 255, 255, 127, 0.3 ); }
+  h2,h3     { font-size: 1.50em; }
+  h4,h5     { font-size: 1.25em; }
+  h2,h4     { color: rgba( 0, 0, 0, 0.5 ); }
+  h3,h5     { color: rgba( 0, 0, 0, 0.3 ); }
+  h3::before,h5::before { content: " " }
+}
+
+.section:not(.selected) {
+  h2,h3,h4,h5,p {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  footer {
+
+    .wrapper {
+
+      .footer-col-wrapper {
+        margin: 0px; border: 0px; padding: 0px;
+        text-align: center;
+
+        .footer-col {
+          margin: 5px; border: 0px; padding: 0px;
+          text-align: center;
+          width: 100%;
+
+          * {
+            margin: 0px; border: 0px; padding: 0px;
+          }
+        }
+      }
+    }
+  }
+
+  .section:not(.selected) {
+    h2,h3,h4,h5,p {
+      display: inherit;
+    }
+  }
+
+  small { display: none; }
+}
+
