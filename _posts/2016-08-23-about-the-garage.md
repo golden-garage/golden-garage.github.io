@@ -6,6 +6,8 @@ date:   2016-08-23 15:46:40
 categories: about
 ---
 
+<!-- ============================================================================================================== -->
+
 I'm consolidating the various projects that I have been working on into one place: this garage.
 
 This garage is a lot like other garages. However, instead of a car being parked in this garage, there are boxes full of
@@ -32,4 +34,4 @@ It's time to clean-up, reorganize and play.
 
 <!-- ============================================================================================================== -->
 
-{% include about/_refs.md %}
+{% include _refs.md %}

@@ -4,10 +4,17 @@ layout: default
 
 <div class="home">
 
+  {% capture oldest_date %}{{ site.time   |date: "%s"     }}{% endcapture %}
+  {% capture oldest_date %}{{ oldest_date |minus: 2592000 }}{% endcapture %}
+
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains "news" %}
+
+      {% capture post_date %}{{ post.date |date: "%s" }}{% endcapture %}
+
+      {% unless post_date < oldest_date or post.categories contains "about" %}
         <li>
+
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;-&nbsp;<span>{{ post.topic }}</span>
 
           <h2>
@@ -17,7 +24,7 @@ layout: default
           {{ post.excerpt }}
 
         </li>
-      {% endif %}
+      {% endunless %}
     {% endfor %}
   </ul>
 

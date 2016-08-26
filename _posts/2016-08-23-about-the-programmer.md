@@ -6,6 +6,8 @@ date:   2016-08-23 15:46:21
 categories: about
 ---
 
+<!-- ============================================================================================================== -->
+
 In the summer of 1972, I sat in the computer lab at [SUNY Fredonia] and completed my first [CAI tutorial] for
 programming in the computer programming language [APL]. I was nine years old.
 
@@ -36,4 +38,4 @@ the same joy and passion for computing that I have had for more than forty years
 
 <!-- ============================================================================================================== -->
 
-{% include about/_refs.md %}
+{% include _refs.md %}

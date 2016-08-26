@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: disqus-page
 title: about
 permalink: /about/
 ---
@@ -48,5 +48,3 @@ function showSection( div ) {
 </script>
 
 <!-- ============================================================================================================== -->
-
-{% include about/_refs.md %}

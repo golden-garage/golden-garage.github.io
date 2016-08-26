@@ -6,6 +6,8 @@ date:   2016-08-23 15:46:30
 categories: about
 ---
 
+<!-- ============================================================================================================== -->
+
 ## lost in the valley
 
 While sitting in a cave near the [Manzanita Mine], over looking Sulfur Creek near [Wilbur Hot Springs], I wrote my
@@ -61,4 +63,4 @@ Now, once again, I have time for music.
 
 <!-- ============================================================================================================== -->
 
-{% include about/_refs.md %}
+{% include _refs.md %}

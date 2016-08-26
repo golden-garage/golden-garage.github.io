@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: disqus-page
 title: rpilab
 permalink: /rpilab/
 ---
+
+<!-- ============================================================================================================== -->
 
 # RPi Lab
 
@@ -12,11 +14,21 @@ This is an ambitious project to build a production devops environment using Rasp
 
 <!-- ============================================================================================================== -->
 
-<div class="section" markdown="1" onClick="showSection(this);">
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% if post.categories contains "rpilab" %}
+      <div class="section" onClick="showSection(this);">
 
-{% include rpilab/intro.md %}
+        <h1>{{ post.title }}</h1>
 
-</div>
+        <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></p>
+
+        {{ post.content }}
+
+      </div>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <!-- ============================================================================================================== -->
 
@@ -38,5 +50,3 @@ function showSection( div ) {
 </script>
 
 <!-- ============================================================================================================== -->
-
-{% include about/_refs.md %}
