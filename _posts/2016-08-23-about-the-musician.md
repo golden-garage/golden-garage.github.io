@@ -6,12 +6,10 @@ date:   2016-08-23 15:46:30
 categories: about
 ---
 
-<!-- ============================================================================================================== -->
-
-## lost in the valley
-
 While sitting in a cave near the [Manzanita Mine], over looking Sulfur Creek near [Wilbur Hot Springs], I wrote my
 first song, "the Sun, the Wind, the Moon and the Rain". I was twenty-five. 
+
+## lost in the valley
 
 My oldest child at the time was seven and my youngest five. The song reflected upon loss and the pain of
 divorce. Singing the song was an excellent release to the pressures I felt at the time.

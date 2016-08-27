@@ -6,8 +6,6 @@ date:   2016-08-23 15:46:50
 categories: about
 ---
 
-<!-- ============================================================================================================== -->
-
 A number of open tools and resources were used to build this website.
 
 Some pages contain [Processing JS] animations.

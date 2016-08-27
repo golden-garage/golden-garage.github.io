@@ -5,6 +5,8 @@ layout: default
 
   <article class="post-content">
     {{ content }}
+
+    <br>
   </article>
 
 </div>
@@ -18,8 +20,8 @@ layout: default
  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables 
 */
 var disqus_config = function () {
-   this.page.url = "{{ page.url | prepend: site.baseurl }}";
-   this.page.identifier = "{{ page.title }}"
+   this.page.url = "";
+   this.page.identifier = "";
 };
 (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');

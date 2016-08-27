@@ -6,8 +6,6 @@ date:   2016-08-22 12:20:21
 categories: news rpilab
 ---
 
-<!-- ============================================================================================================== -->
-
 I'm building a cluster computing laboratory with a few Raspberry Pis.
 
 
