@@ -6,26 +6,27 @@ date:   2016-08-25 15:50:51
 categories: site
 ---
 
-I added dynamic discussions to these static [Github Pages](https://pages.github.com/) using [Disqus](http://disqus.com).
+I added dynamic discussions to these static GitHub Pages using Disqus.
 
 ## goal: add dynamic discussion
 
-I wanted this website to have dynamic discussions on each page without adding an application server or database to
+I wanted this website to have dynamic discussions on each page without adding an [application server] or [database] to
 manage the discussions. 
 
-I like the performance and simplicity of a static website. However, I would like to be
-able to discuss the site's content without managing users or 'upgrading' to a hosted content management system. I would
-just like this website to have a discussion forum with as little fuss as possible.
+The performance and simplicity of a [static website] hosted by [GitHub Pages] is nice and the website is easy to
+maintain. However, I would like the possibility of discussing the site's content without managing users or 'upgrading'
+the website to a hosted [content management system]. I would just like this website to have a [discussion forum] with
+as little fuss as possible.
 
-Static websites created with [Github Pages](https://pages.github.com/), like this website, do not change when they are
-visited. They have no backend services of their own to respond to users or to change the web pages in any dynamic way -
-like adding a comment or posting a reply. The website stays the way I left it, until I push new changes to GitHub.
+A website created with GitHub Pages, like this website, has static webpages - they do not change when they are
+visited. They have no [backend] services of their own to respond to users or to change the webpages in any dynamic
+way - like adding a comment or posting a reply. This website stays the way I last left it, until I push new changes to
+GitHub.
 
-There is no application server or database behind the scenes being used to create these webpages. Instead, this
-website's static HTML files are regenerated whenever I push new content to the
-[source code repository of this website](https://github.com/golden-garage/golden-garage.github.io). Once the website's
-webpages are regenerated, they do not change. In fact, the only way to change the generated static website is to push
-new content to GitHub.
+Because there is no application server or database behind the scenes being used to create these webpages, this
+website's static HTML files are only generated once when I push new content to the source code
+[repository of this website]. Once the website's webpages are regenerated, they do not change. In fact, the only way to
+change the generated static website is to push new content to GitHub.
 
 With GitHub Pages alone, I can't have dynamic discussions on each page. I can only post unchanging, static content.
 
@@ -60,11 +61,14 @@ lines of HTML+Javascript, pushed the changes to GitHub and *violà* each page ha
 
 There are two parts to the code Disqus provides. The `<div>` part and the `<script>` part.
 
-The `<div>` part is a marker that shows Disqus where their dicussion tool should be placed within the HTML page.
+The `<div>` part is a marker that shows the Disqus script where the dicussion widget should be placed within the HTML
+page. In my pages, the `<div id="disqus_thread">` is the last HTML element at the bottom of the page. But, it should be
+possbile to put the marker anywhere in the page.
 
-And, the `<script>` part fetches my personalized version of the Disqus script `//golden-garage.disqus.com/embed.js`
-from the Discus website and appends it (`appendChild(s)`) to the bottom of the `<head>` section of the HTML page (or
-to the bottom of the `<body>` section, if there is no `<head>`).
+And, the `<script>` part fetches a version of the Disqus script that has been configured specifically for this website
+(`//golden-garage.disqus.com/embed.js`) from the Discus website and appends it (`appendChild(s)`) to the bottom of the
+&lt;head&gt; section of the HTML document (`d.head`) or to the bottom of the &lt;body&gt; section (`d.body`), if there is no
+&lt;head&gt; in the document.
 
 When the page loads, so does my personalized version of the Disqus script. When the Disqus script loads, it finds the
 `<div>` in the webpage and creates a Disqus discussion widget within the `<div>`.

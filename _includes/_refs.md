@@ -8,15 +8,15 @@
 [CMS]:                            https://en.wikipedia.org/wiki/Content_management_system
 [COBOL]:                          https://en.wikipedia.org/wiki/COBOL
 [C]:                              https://en.wikipedia.org/wiki/C_(programming_language)
-[enjoyed creating music together]:https://soundcloud.com/search?q=inidgo%20blues%20featuring%20connie%20wolff
-[Erlangen, Germany]:              https://en.wikipedia.org/wiki/Erlangen
+[DISQUS]:                         https://disqus.com/
 [ESBs]:                           https://en.wikipedia.org/wiki/Enterprise_service_bus
+[Erlangen, Germany]:              https://en.wikipedia.org/wiki/Erlangen
 [FORTH]:                          https://en.wikipedia.org/wiki/Forth_(programming_language)
 [FORTRAN]:                        https://en.wikipedia.org/wiki/Fortran
 [GitHub Pages]:                   https://pages.github.com/
 [Groovy]:                         https://en.wikipedia.org/wiki/Groovy_(programming_language)
-[Ingo]:                           https://soundcloud.com/indigo-blues
 [Indigo Blues]:                   https://soundcloud.com/search?q=inidgo%20blues%20featuring%20richard%20golden
+[Ingo]:                           https://soundcloud.com/indigo-blues
 [James Grieshhaber]:              https://plus.google.com/104610899646415406748/about
 [Java]:                           https://en.wikipedia.org/wiki/Java
 [Javascript]:                     https://en.wikipedia.org/wiki/JavaScript
@@ -26,38 +26,48 @@
 [Objective C]:                    https://en.wikipedia.org/wiki/Objective-C
 [PL/I]:                           https://en.wikipedia.org/wiki/PL/I
 [Pascal]:                         https://en.wikipedia.org/wiki/Pascal_(programming_language)
-[UCSD Pascal]:                    https://en.wikipedia.org/wiki/UCSD_Pascal
 [Perl]:                           https://en.wikipedia.org/wiki/Perl
+[Processing JS]:                  http://processingjs.org/
 [Python]:                         https://en.wikipedia.org/wiki/Python_(programming_language)
+[Raspberry Pi]:                   https://www.raspberrypi.org
 [Ruby]:                           https://en.wikipedia.org/wiki/Ruby_(programming_language)
 [SIL Open Font License, 1.1]:     http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 [SOA]:                            https://en.wikipedia.org/wiki/Service-oriented_architecture
-[Spirit Link, GmbH]:              http://www.spiritlink.de/
 [SUNY Fredonia]:                  http://home.fredonia.edu
 [Scheme]:                         https://en.wikipedia.org/wiki/Scheme_(programming_language)
 [Short Stack]:                    https://www.google.com/fonts/specimen/Short+Stack
+[Spirit Link, GmbH]:              http://www.spiritlink.de/
 [TCL]:                            https://en.wikipedia.org/wiki/Tcl
+[UCSD Pascal]:                    https://en.wikipedia.org/wiki/UCSD_Pascal
 [UML]:                            https://en.wikipedia.org/wiki/Unified_Modeling_Language
+[Wilbur Hot Springs]:             http://wilburhotsprings.com/
 [XP - extreme programming]:       https://en.wikipedia.org/wiki/Extreme_programming
 [agile development]:              https://en.wikipedia.org/wiki/Agile_software_development
+[application server]:             https://en.wikipedia.org/wiki/Application_server
+[backend]:                        https://en.wikipedia.org/wiki/Front_and_back_ends
 [cluster computing]:              https://en.wikipedia.org/wiki/Computer_cluster
 [containerization]:               https://en.wikipedia.org/wiki/Docker_(software)
+[content management system]:      https://en.wikipedia.org/wiki/Content_management_system
+[database]:                       https://en.wikipedia.org/wiki/Database
+[discussion forum]:               https://en.wikipedia.org/wiki/Internet_forum
 [distributed computing]:          https://en.wikipedia.org/wiki/Distributed_computing
+[enjoyed creating music together]:https://soundcloud.com/search?q=inidgo%20blues%20featuring%20connie%20wolff
 [iterative development]:          https://en.wikipedia.org/wiki/Iterative_and_incremental_development
 [jobs]:                           https://en.wikipedia.org/wiki/Job_scheduler
 [mainframes]:                     https://en.wikipedia.org/wiki/Mainframe_computer
 [map-reduce]:                     https://en.wikipedia.org/wiki/MapReduce
 [micro-services]:                 https://en.wikipedia.org/wiki/Microservices
 [microcomputers]:                 https://en.wikipedia.org/wiki/Microcomputer
+[my dad]:                         https://facebook.com/ghgjr
 [nosql]:                          https://en.wikipedia.org/wiki/NoSQL
 [print-out paper]:                https://en.wikipedia.org/wiki/Line_printer#Paper_.28forms.29_handling
-[Processing JS]:                  http://processingjs.org/
 [program]:                        https://en.wikipedia.org/wiki/Computer_program
 [punched cards]:                  https://en.wikipedia.org/wiki/Punched_card
+[repository of this website]:     https://github.com/golden-garage/golden-garage.github.io
 [scripting languages]:            https://en.wikipedia.org/wiki/Scripting_language
+[static website]:                 https://en.wikipedia.org/wiki/Static_web_page
 [structured programming]:         https://en.wikipedia.org/wiki/Structured_programming
 [top down structured approach]:   https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
 [use cases]:                      https://en.wikipedia.org/wiki/Use_case
 [web applications]:               https://en.wikipedia.org/wiki/Web_application
 [web services]:                   https://en.wikipedia.org/wiki/Web_service
-[Wilbur Hot Springs]:             http://wilburhotsprings.com/

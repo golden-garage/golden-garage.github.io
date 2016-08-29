@@ -6,24 +6,27 @@ date:   2016-08-22 12:20:21
 categories: news rpilab
 ---
 
-I'm building a cluster computing laboratory with a few Raspberry Pis.
+I'm building a cluster computing laboratory with a few Raspberry Pis have laying around in the garage.
 
 
 ### a father and son project
 
-When the Raspberry Pi was first released, my dad and I raced each other to see who could order one and have it
-delivered faster. 
+When the first [Raspberry Pi] computer was released, [my dad] and I raced each other to see who could order one and have it
+delivered faster.
 
-We both ordered two Raspberry Pis, one from each of the two North American distributors. We were both so excited to get our hands a $35 full-stack Linux computer that we ordered one from each distributor just
-to get one faster!
+We both ordered two Raspberry Pis, one from each of the two North American distributors. We were both so excited to get
+our hands a $35 full-stack Linux computer that both of us ordered one from each of the distributors just to get one
+faster!
 
-My dad's Raspberry Pi arrived first, mine the next day. We've both been playing with one (or more!) daily ever since.
+Both of my dad's Raspberry Pis arrived before mine did. My two arrived the following week. Since then, we've both been
+playing with one (or more!) Raspberry Pis daily.
 
 
 ### devops on Raspberry Pi
 
-Much of the work I've been doing in the past few years has revolved around modernizing devops for healthcare
-orgainzations. In the last little while, I've begun applying devops tools and practices on clusters of Raspberry Pis.
+Much of the work I've been doing professionally in the past few years has revolved around modernizing
+[devops](https://en.wikipedia.org/wiki/DevOps) for healthcare orgainzations. In the last little while, I've begun
+experimenting with devops tools and practices on clusters of Raspberry Pis in the garage.
 
 The newest Raspberry Pi (Rpi3), has a quad-core chipset that is supported by main-stream operating system distributions
 (Ubuntu, Windows 10, Raspbian) and is powerful enough to run webservers (Apache2, Nginx), application servers (Tomcat,
