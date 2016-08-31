@@ -1,9 +1,9 @@
 ---
 layout: post
-topic:  "RPi Lab - Introduction"
+topic:  "RPi Lab"
 title:  "Introduction to the RPi Lab"
 date:   2016-08-22 12:20:21
-categories: news rpilab
+categories: rpilab
 ---
 
 I'm building a cluster computing laboratory with a few Raspberry Pis have laying around in the garage.
@@ -57,7 +57,5 @@ configured binaries are not (yet) available from upstream software repositories.
 
 ### batteries not included
 
-
-<!-- ============================================================================================================== -->
 
 {% include _refs.md %}

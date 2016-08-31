@@ -4,13 +4,9 @@ title: classes
 permalink: /classes/
 ---
 
-<!-- ============================================================================================================== -->
-
 # classes
 
-I teach programming classes.
-
-<!-- ============================================================================================================== -->
+I teach computer programming.
 
 ---
 
@@ -18,7 +14,7 @@ I teach programming classes.
 
 <ul class="post-list">
   {% for post in site.posts %}
-    {% if post.topic contains "Class" %}
+    {% if post.topic contains "class" %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;-&nbsp;<span>{{ post.topic }}</span>
 
@@ -32,6 +28,3 @@ I teach programming classes.
     {% endif %}
   {% endfor %}
 </ul>
-
-
-<!-- ============================================================================================================== -->

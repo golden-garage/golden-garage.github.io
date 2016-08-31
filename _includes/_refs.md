@@ -49,6 +49,7 @@
 [containerization]:               https://en.wikipedia.org/wiki/Docker_(software)
 [content management system]:      https://en.wikipedia.org/wiki/Content_management_system
 [database]:                       https://en.wikipedia.org/wiki/Database
+[devops]:                         https://en.wikipedia.org/wiki/DevOps
 [discussion forum]:               https://en.wikipedia.org/wiki/Internet_forum
 [distributed computing]:          https://en.wikipedia.org/wiki/Distributed_computing
 [enjoyed creating music together]:https://soundcloud.com/search?q=inidgo%20blues%20featuring%20connie%20wolff

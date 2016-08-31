@@ -23,20 +23,22 @@ visited. They have no [backend] services of their own to respond to users or to 
 way - like adding a comment or posting a reply. This website stays the way I last left it, until I push new changes to
 GitHub.
 
-Because there is no application server or database behind the scenes being used to create these webpages, this
-website's static HTML files are only generated once when I push new content to the source code
-[repository of this website]. Once the website's webpages are regenerated, they do not change. In fact, the only way to
-change the generated static website is to push new content to GitHub.
+Because there is no application server or database behind the scenes creating these webpages, this website's static
+HTML files are only generated once - when I push new content to the source code [repository of this website]. 
 
-With GitHub Pages alone, I can't have dynamic discussions on each page. I can only post unchanging, static content.
+Once the website's webpages are regenerated, they do not change. In fact, the only way to change the generated static
+website is to push new content to GitHub.
+
+With GitHub Pages alone, I can't have dynamic discussions on each page. I can only post unchanging, static content. No
+comments. No replies.
 
 ## solution: add Disqus
 
 The [Disqus](http://disqus.com) company advertizes that they offer "... the best add-on tools for site owners to power
 discussions, increase engagement, and earn revenue."
 
-I'm not really interested in using Disqus for increasing engagment or generating revenue (at this time
-\*grin\*). However, their dynamic discussion service *was* easy to integrate into this static website.
+I'm not really interested (*yet \*grin\**) in using Disqus for increasing engagment or generating revenue. However,
+their dynamic discussion service *was* easy to integrate with GitHub Pages.
 
 I think the webservice Disqus provides should easily integrate into just about any webpage. I just cut-and-pasted a few
 lines of HTML+Javascript, pushed the changes to GitHub and *violà* each page has discussions!

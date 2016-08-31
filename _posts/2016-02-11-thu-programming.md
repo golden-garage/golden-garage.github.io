@@ -1,6 +1,6 @@
 ---
 layout: post
-topic:  "Thu Programming Class"
+topic:  "programming class"
 title:  "Animation Basics"
 date:   2016-02-11 15:30
 categories: update thu programming processingjs

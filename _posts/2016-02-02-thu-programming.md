@@ -1,6 +1,6 @@
 ---
 layout: post
-topic:  "Thu Programming Class"
+topic:  "programming class"
 title:  "Intro to Javascript"
 date:   2016-02-02 15:30
 categories: update thu programming processingjs
