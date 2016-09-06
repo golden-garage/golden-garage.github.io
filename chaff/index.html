@@ -1,0 +1,51 @@
+---
+layout: disqus-page
+title: chaff
+permalink: /chaff/
+---
+
+<div class="chaff">
+
+  <blockquote>
+    &quot;<a href="https://en.wikipedia.org/wiki/Chaff#Metaphor">Chaff</a> as a waste product from grain
+    processing leads to a metaphorical use of the term, to refer to something seen as worthless.&quot;
+    -- <a href="https://www.wikipedia.org/">Wikipedia</a></blockquote>
+  </blockquote>
+
+  <p> Here is a collection of ramblings that I've seperated from the rest of the posts on this site. </p>
+
+  <p> While I hope they are not completely undigestable or worthless, I don't think these posts contain the same seeds
+    of wisdom or kernels of truth that I wish to be found elsewhere. </p>
+
+  <p> The posts on this page are more rooted in how I feel or think about something, rather than actual fact. Which
+  means, I'm likely to change my opinion on these topics as I grow and change. </p>
+
+  {% capture oldest_date %}{{ site.time   |date: "%s"     }}{% endcapture %}
+  {% capture oldest_date %}{{ oldest_date |minus: 2592000 }}{% endcapture %}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+
+      {% capture post_date %}{{ post.date |date: "%s" }}{% endcapture %}
+
+      {% unless post_date < oldest_date %}
+        {% if post.categories contains "chaff" %}
+          <li>
+
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;-&nbsp;<span>{{ post.topic }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+
+            {{ post.excerpt }}
+
+          </li>
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

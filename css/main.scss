@@ -76,6 +76,10 @@ body {
   .site-nav, .site-title {
     line-height: 49px;
   }
+
+  .site-title {
+    font-size: 1.57em;
+  }
 }
 
 .page-content {
@@ -278,3 +282,13 @@ footer {
   small { display: none; }
 }
 
+footer {
+  a, a:hover, a:active, a:visited, .text { color: $text-color; }
+}
+
+blockquote {
+  font-size: 0.8em;
+  
+  margin-left:  3.1em;
+  margin-right: 3.1em;
+}

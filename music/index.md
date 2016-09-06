@@ -4,7 +4,13 @@ title: music
 permalink: /music/
 ---
 
-# music
+> &quot;[Music] is an art form and cultural activity whose medium is sound and silence. The common elements of music
+> are pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation),
+> dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the
+> "color" of a musical sound). Different styles or types of music may emphasize, de-emphasize or omit some of these
+> elements. Music is performed with a vast range of instruments and with vocal techniques ranging from singing to
+> rapping, and there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental
+> accompaniment) and pieces that combine singing and instruments. &quot; -- [Wikipedia]
 
 I've got a few samples of more recent music on which I've been working laying around here someplace...
 
@@ -31,3 +37,6 @@ While I'm digging through old boxes, check out this collection of collaborations
     {% endif %}
   {% endfor %}
 </ul>
+
+
+{% include _refs.md %}

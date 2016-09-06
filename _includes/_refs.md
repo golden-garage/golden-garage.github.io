@@ -5,17 +5,22 @@
 [C#]:                             https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [C++]:                            https://en.wikipedia.org/wiki/C%2B%2B
 [CAI tutorial]:                   http://wikieducator.org/Computer_Assisted_Instruction_(CAI)
+[Chaff]:                          https://en.wikipedia.org/wiki/Chaff#Metaphor
 [CMS]:                            https://en.wikipedia.org/wiki/Content_management_system
 [COBOL]:                          https://en.wikipedia.org/wiki/COBOL
+[Computer programming]:           https://en.wikipedia.org/wiki/Computer_programming
 [C]:                              https://en.wikipedia.org/wiki/C_(programming_language)
 [DISQUS]:                         https://disqus.com/
 [ESBs]:                           https://en.wikipedia.org/wiki/Enterprise_service_bus
 [Erlangen, Germany]:              https://en.wikipedia.org/wiki/Erlangen
 [FORTH]:                          https://en.wikipedia.org/wiki/Forth_(programming_language)
 [FORTRAN]:                        https://en.wikipedia.org/wiki/Fortran
+[GitLab]:                         https://about.gitlab.com/
+[GitLab CE Omnibus]:              https://about.gitlab.com/downloads/
 [GitHub Pages]:                   https://pages.github.com/
 [Groovy]:                         https://en.wikipedia.org/wiki/Groovy_(programming_language)
 [Indigo Blues]:                   https://soundcloud.com/search?q=inidgo%20blues%20featuring%20richard%20golden
+[Infrastructure as Code]:         https://en.wikipedia.org/wiki/Infrastructure_as_Code
 [Ingo]:                           https://soundcloud.com/indigo-blues
 [James Grieshhaber]:              https://plus.google.com/104610899646415406748/about
 [Java]:                           https://en.wikipedia.org/wiki/Java
@@ -23,6 +28,7 @@
 [Jekyll]:                         http://jekyllrb.com/
 [Lisp]:                           https://en.wikipedia.org/wiki/Lisp_(programming_language)
 [Manzanita Mine]:                 https://www.google.com/maps/place/39%C2%B001'56.0%22N+122%C2%B026'02.0%22W/@39.0326638,-122.4353212,1134m/data=!3m1!1e3!4m2!3m1!1s0x0:0x0
+[Music]:                          https://en.wikipedia.org/wiki/Music
 [Objective C]:                    https://en.wikipedia.org/wiki/Objective-C
 [PL/I]:                           https://en.wikipedia.org/wiki/PL/I
 [Pascal]:                         https://en.wikipedia.org/wiki/Pascal_(programming_language)
@@ -41,10 +47,12 @@
 [UCSD Pascal]:                    https://en.wikipedia.org/wiki/UCSD_Pascal
 [UML]:                            https://en.wikipedia.org/wiki/Unified_Modeling_Language
 [Wilbur Hot Springs]:             http://wilburhotsprings.com/
+[Wikipedia]:                      https://www.wikipedia.org/
 [XP - extreme programming]:       https://en.wikipedia.org/wiki/Extreme_programming
 [agile development]:              https://en.wikipedia.org/wiki/Agile_software_development
 [application server]:             https://en.wikipedia.org/wiki/Application_server
 [backend]:                        https://en.wikipedia.org/wiki/Front_and_back_ends
+[class]:                          https://en.wikipedia.org/wiki/Class_(education)
 [cluster computing]:              https://en.wikipedia.org/wiki/Computer_cluster
 [containerization]:               https://en.wikipedia.org/wiki/Docker_(software)
 [content management system]:      https://en.wikipedia.org/wiki/Content_management_system
@@ -57,6 +65,7 @@
 [jobs]:                           https://en.wikipedia.org/wiki/Job_scheduler
 [mainframes]:                     https://en.wikipedia.org/wiki/Mainframe_computer
 [map-reduce]:                     https://en.wikipedia.org/wiki/MapReduce
+[metaphysics]:                    https://en.wikipedia.org/wiki/Metaphysics
 [micro-services]:                 https://en.wikipedia.org/wiki/Microservices
 [microcomputers]:                 https://en.wikipedia.org/wiki/Microcomputer
 [my dad]:                         https://facebook.com/ghgjr
